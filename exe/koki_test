@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "koki_test"
+puts KokiTest.greet
