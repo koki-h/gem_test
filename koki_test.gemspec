@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Sample.}
   spec.description   = %q{Sample.}
-  spec.homepage      = "http://github.com/koki-h"
+  spec.homepage      = "http://github.com/koki-h/koki_test"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
